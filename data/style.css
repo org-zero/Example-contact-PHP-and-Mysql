@@ -1,0 +1,24 @@
+.container {
+    border: solid 1px rgb(226, 226, 226);
+    background-color: rgb(251, 251, 251);
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 20vh;
+}
+.pay {
+    width: 10%;
+    margin: 0 auto;
+    margin-left: 30vh;
+
+}
+
+.form-control {
+    width: 80%;
+    height: 9vh;
+}
+input::placeholder {
+    margin-right: -1px;
+    color: rgb(157, 157, 157);
+    font-size: 3vh;
+    text-align: center;
+}
